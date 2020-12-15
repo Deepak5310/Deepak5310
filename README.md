@@ -1,4 +1,11 @@
-### Hi there 👋
+### Deepak Jangir
+Hi there 👋
+
+🔭 I’m currently working on android development with kotlin
+
+🌱 I’m currently learning Flutter and ReactNative
+
+💬 Ask me about any thing related to android and web development
 
 <!--
 **Deepak5310/Deepak5310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
