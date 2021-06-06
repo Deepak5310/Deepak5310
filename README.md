@@ -1,23 +1,8 @@
-### Deepak Jangir
-Hi there 👋
+[![Deepak Jangirs](https://github-readme-stats.vercel.app/api?username=Deepak5310&show_icons=true&include_all_commits=true&theme=dark&layout=compact)](https://github.com/Deepak5310)
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak5310&theme=dark&layout=compact)
 
-🔭 I’m currently working on android development with kotlin
-
-🌱 I’m currently learning Flutter and ReactNative
-
-💬 Ask me about any thing related to android and web development
-
-<!--
-**Deepak5310/Deepak5310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Realme XT
+- 🌱 I’m currently learning Flutter 
+- 🤔 I’m looking for help with the Linux Kernel
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: mrdkjangid@gmail.com
