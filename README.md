@@ -1,4 +1,4 @@
-![header](https://github.com/Deepak5310/Deepak5310/main/header.png)
+![header](https://github.com/Deepak5310/Deepak5310/blob/main/header.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepak5310" alt="Deepak5310" /> </p>
 
