@@ -3,8 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepak5310" alt="Deepak5310" /> </p>
 
 <h2 align="center">Hey ! It's Deepak</h2>
-- 🌱 I’m currently learning **Android Development and Some Other Stuffs**
--  How to reach me: **https://t.me/hacked001**
+
+- I’m currently learning **Android Development and Some Other Stuffs**
+- How to reach me: **https://t.me/hacked001**
 
 ## 📚 My Skills
 <p align="center">
