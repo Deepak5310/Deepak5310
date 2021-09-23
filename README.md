@@ -16,10 +16,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak5310&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </a>
-
-## 🤝 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/Deepak5310" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://dribbble.com/Deepak5310" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"/></a>
-  <a href="https://twitter.com/Deepak5310" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-</p>
