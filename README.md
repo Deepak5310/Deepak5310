@@ -2,8 +2,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepak5310" alt="Deepak5310" /> </p>
 
-<h2 align="center">Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Deepak</h2>
--  I’m currently learning **Everything Which is Possible**
+<h2 align="center">Hey ! It's Deepak</h2>
+- 🌱 I’m currently learning **Android Development and Some Other Stuffs**
 -  How to reach me: **https://t.me/hacked001**
 
 ## 📚 My Skills
