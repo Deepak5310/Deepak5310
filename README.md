@@ -1,18 +1,28 @@
 ![header](https://github.com/Deepak5310/Deepak5310/blob/main/header.png)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepak5310" alt="Deepak5310" /> </p>
-
-<h2 align="center">Hey ! It's Deepak</h2>
-
-- I’m currently learning **Android Development and Some Other Stuffs**
-- How to reach me: **https://t.me/hacked001**
-
-## Stats And Languages
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Deepak5310"></h2>
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Deepak5310&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
+<a href="mailto:deepakjangir5310@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak5310&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+<a href="https://github.com/deepak5310" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=“margin-bottom: 5px;” />
 </a>
+<a href="https://t.me/hacked001" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://twitter.com/mrdkjangid" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=“margin-bottom: 5px;” />
+</a>
+<a href="https://instagram.com/mr.deep.z" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style=“margin-bottom: 5px;” />
+</a>
+<br/>
+
+## Glad to see you here!
+<p><samp>
+  I'm Deepak Jangir. a passionate and keenly interested starter in Software World.<br/><br/>
+  I'm currently working at <a href="https://www.samsung.com/in/support/service-center/">Samsung India</a> as a Service Engineer. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/deepak5310.6748013/">XDA Developers</a>.
+  <br/><br/>
+  You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/hacked001"> Telegram </a> messages.
+</samp></p>
