@@ -1,4 +1,4 @@
-![header](https://github.com/Deepak5310/portfolio/blob/main/header.png)
+![header](https://github.com/Deepak5310/Deepak5310/blob/main/header.png)
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Deepak5310"></h2>
 
 <br>
