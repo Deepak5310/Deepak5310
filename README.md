@@ -2,7 +2,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Deepak5310"></h2>
 
 <br>
-<a href="mailto:deepakjangir5310@gmail.com" target="_blank">
+<a href="mailto:github.p8dby@aleeas.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/deepak5310" target="_blank">
