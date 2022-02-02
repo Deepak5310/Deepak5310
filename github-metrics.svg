@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.20663557010477" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.20663557010477" y="0" width="6.021676208957442" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="455.2283117790622" y="0" width="1.562244615323459" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.79055639438565" y="0" width="1.388939058231697" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.17949545261735" y="0" width="0.7128353700935632" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="458.8923308227109" y="0" width="0.6288567222826025" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5211875449935" y="0" width="0.2676843621173059" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.7888719071108" y="0" width="0.21112809288918563" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.20654206783473" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.20654206783473" y="0" width="6.021674955546761" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="455.22821702338143" y="0" width="1.5623400390491993" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.79055706243065" y="0" width="1.388938769124314" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.179495831555" y="0" width="0.7128352217170255" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="458.892331053272" y="0" width="0.6288565913862033" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.5211876446582" y="0" width="0.26768430639886026" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.78887195105705" y="0" width="0.21112804894291598" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1368,8 +1368,9 @@
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2e0e721</div>
-                                        <div class="message">RMX1921:  rootdir: add audio-app
+                                        <div class="sha">#f7e1521</div>
+                                        <div class="message">RMX1921: permissions: Apply latest supported deqp levels for Vulkan &amp; OpenGL
+Device uses drivers OpenGL ES 3.2 V@502.0 Date: 10/04/2021, Vulkan v1.1.128, which fully support this versions
 
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
@@ -1390,10 +1391,11 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#69cc282</div>
-                                        <div class="message">RMX1921: sepolicy: Allow recovery to access /sys/fs/pstore/*
+                                        <div class="sha">#e47c0a9</div>
+                                        <div class="message">RMX1921: permissions: Apply latest supported deqp levels for Vulkan
+&amp; OpenGL
+Device uses drivers OpenGL ES 3.2 V@502.0 Date: 10/04/2021, Vulkan v1.1.128, which fully support this versions
 
-Change-Id: I499c5c86f7bf54d838e060ace4059325fc031847
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
@@ -1413,10 +1415,13 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7c2e520</div>
-                                        <div class="message">RMX1921: fstab.qcom: Allow all filesystems for USB-OTG
+                                        <div class="sha">#8a121ad</div>
+                                        <div class="message">RMX1921: props: Add the transcoding operating rate
+ref. https://github.com/Deepak5310/device_google_redfin/commit/cbee887d39288274b0d9f9157afa6cfb1d69b8b1.
 
-Change-Id: I5fcb2401ae3bc10fed47b35c4a272d2dee1eaa11
+Bug: 175231451
+Test: CtsMediaTranscodingTestCases:MediaTranscodeManagerTest
+Change-Id: Id25ce60b58ab29a8670695c77be20dd53d63981a
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
@@ -1436,13 +1441,13 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#551d4ea</div>
-                                        <div class="message">RMX1921: fstab: Enable 64-bit inode version support for ext4
+                                        <div class="sha">#c3c7e8b</div>
+                                        <div class="message">RMX1921: props: Add the transcoding operating rate
+ref. https://github.com/GrapheneOS/device_google_bonito/commit/cbee887d39288274b0d9f9157afa6cfb1d69b8b1.
 
-https://jtlayton.wordpress.com/2016/12/16/the-inode-i_version-counter-in-linux/
-
-Change-Id: I58eac01a8f387fdc6d98be4c14212011aa2fc927
-Signed-off-by: Panchajanya1999 &lt;panchajanya@azure-dev.live&gt;
+Bug: 175231451
+Test: CtsMediaTranscodingTestCases:MediaTranscodeManagerTest
+Change-Id: Id25ce60b58ab29a8670695c77be20dd53d63981a
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
@@ -1462,13 +1467,13 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f39f96</div>
-                                        <div class="message">RMX1921: fstab: Enable 64-bit inode version support for ext4
+                                        <div class="sha">#3abe13e</div>
+                                        <div class="message">RMX1921: props: Add the transcoding operating rate
+ref. https://github.com/GrapheneOS/device_google_bonito/commit/cbee887d39288274b0d9f9157afa6cfb1d69b8b1.
 
-https://jtlayton.wordpress.com/2016/12/16/the-inode-i_version-counter-in-linux/
-
-Change-Id: I58eac01a8f387fdc6d98be4c14212011aa2fc927
-Signed-off-by: Panchajanya1999 &lt;panchajanya@azure-dev.live&gt;
+Bug: 175231451
+Test: CtsMediaTranscodingTestCases:MediaTranscodeManagerTest
+Change-Id: Id25ce60b58ab29a8670695c77be20dd53d63981a
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
@@ -1479,7 +1484,7 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2022, 12:40:25 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 13:43:04 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
