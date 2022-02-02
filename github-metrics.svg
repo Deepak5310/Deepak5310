@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.20654206783473" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.20654206783473" y="0" width="6.021674955546761" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="455.22821702338143" y="0" width="1.5623400390491993" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.79055706243065" y="0" width="1.388938769124314" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.179495831555" y="0" width="0.7128352217170255" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="458.892331053272" y="0" width="0.6288565913862033" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5211876446582" y="0" width="0.26768430639886026" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.78887195105705" y="0" width="0.21112804894291598" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.2060244666869" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.2060244666869" y="0" width="6.0216680170327885" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="455.22769248371975" y="0" width="1.5628682768123572" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.7905607605321" y="0" width="1.3889371687106207" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.17949792924276" y="0" width="0.7128344003480241" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="458.8923323295908" y="0" width="0.6288558667821227" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.52118819637286" y="0" width="0.26768399795788433" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.78887219433074" y="0" width="0.21112780566925402" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1368,9 +1368,60 @@
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f7e1521</div>
-                                        <div class="message">RMX1921: permissions: Apply latest supported deqp levels for Vulkan &amp; OpenGL
-Device uses drivers OpenGL ES 3.2 V@502.0 Date: 10/04/2021, Vulkan v1.1.128, which fully support this versions
+                                        <div class="sha">#8f13611</div>
+                                        <div class="message">RMX1921: enable codec2
+Test: make cts -j123 &amp;&amp; cts-tradefed run cts-dev -m CtsMediaTestCases --compatibility:module-arg CtsMediaTestCases:include-annotation:android.platform.test.annotations.RequiresDevice
+
+Bug: 128456533
+Change-Id: Ibe051f4b19c2dbb0a208e751a3b7a332a329b447
+[@Thatisjigen]: While at it cleanup unesistant media profiles perf from unused codecs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#04d661f</div>
+                                        <div class="message">RMX1921: Build missing libldacBT_bco from source
+
+E a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library libldacBT_bco.so not found
+
+Signed-off-by: MadhavSaladi &lt;baaswanthmadhav@gmail.com&gt;
+Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3b98605</div>
+                                        <div class="message">RMX1921: audio: fix a weird BT samplerate
+*seriously???
+12-23 15:52:35.634   836   836 W audio_route: unknown enum value string 16000 for ctl BT SampleRate
 
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
@@ -1391,10 +1442,9 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e47c0a9</div>
-                                        <div class="message">RMX1921: permissions: Apply latest supported deqp levels for Vulkan
-&amp; OpenGL
-Device uses drivers OpenGL ES 3.2 V@502.0 Date: 10/04/2021, Vulkan v1.1.128, which fully support this versions
+                                        <div class="sha">#c651a0e</div>
+                                        <div class="message">RMX1921: overlay: Drop MMS user agent overlays
+Current profile URL points to a 404 page
 
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
                                     </div>
@@ -1415,66 +1465,10 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8a121ad</div>
-                                        <div class="message">RMX1921: props: Add the transcoding operating rate
-ref. https://github.com/Deepak5310/device_google_redfin/commit/cbee887d39288274b0d9f9157afa6cfb1d69b8b1.
+                                        <div class="sha">#00d0094</div>
+                                        <div class="message">RMX1921: overlay: Drop MMS user agent overlays
 
-Bug: 175231451
-Test: CtsMediaTranscodingTestCases:MediaTranscodeManagerTest
-Change-Id: Id25ce60b58ab29a8670695c77be20dd53d63981a
-Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c3c7e8b</div>
-                                        <div class="message">RMX1921: props: Add the transcoding operating rate
-ref. https://github.com/GrapheneOS/device_google_bonito/commit/cbee887d39288274b0d9f9157afa6cfb1d69b8b1.
-
-Bug: 175231451
-Test: CtsMediaTranscodingTestCases:MediaTranscodeManagerTest
-Change-Id: Id25ce60b58ab29a8670695c77be20dd53d63981a
-Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3abe13e</div>
-                                        <div class="message">RMX1921: props: Add the transcoding operating rate
-ref. https://github.com/GrapheneOS/device_google_bonito/commit/cbee887d39288274b0d9f9157afa6cfb1d69b8b1.
-
-Bug: 175231451
-Test: CtsMediaTranscodingTestCases:MediaTranscodeManagerTest
-Change-Id: Id25ce60b58ab29a8670695c77be20dd53d63981a
-Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
+* Current profile URL points to a 404 page</div>
                                     </div>
                                 </div>
                             </section>
@@ -1484,7 +1478,7 @@ Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2022, 13:43:04 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 14:40:43 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
