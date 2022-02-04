@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.12365036807773" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.12365036807773" y="0" width="6.020563781007425" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="455.1442141490852" y="0" width="1.5625098841295628" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.70672403321475" y="0" width="1.4731077344204417" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.17983176763516" y="0" width="0.7127036828420511" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="458.8925354504772" y="0" width="0.6287405490161982" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5212759994934" y="0" width="0.2676349108423006" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.78891091033574" y="0" width="0.21108908966426723" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.12496670935815" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.12496670935815" y="0" width="6.0205814267418" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="455.14554813609993" y="0" width="1.5625144637063895" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.70806259980634" y="0" width="1.4731120519675576" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.1811746517739" y="0" width="0.7127057717128502" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="458.89388042348673" y="0" width="0.6273941729094145" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.52127459639615" y="0" width="0.26763569525630543" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7889102916525" y="0" width="0.21108970834752372" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1347,114 +1347,145 @@
                                 <div class="details">
                                     <div>on branch <span class="code">12</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f6e9a5</div>
+                                        <div class="sha">#534a4e4</div>
+                                        <div class="message">RMX1921: Don't apply persist.vendor.usb.config
+
+ * Otherwise adb turns on after reboot every time.
+
+  https://gitlab.com/LineageOS/issues/android/-/issues/4033
+  https://gitlab.com/LineageOS/issues/android/-/issues/4204
+
+Change-Id: I66631f1f38a3e3a16e6d3dad87c83d0a98e6f851
+Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8cd71ec</div>
+                                        <div class="message">RMX1921: Don't apply persist.vendor.usb.config
+
+ * Otherwise adb turns on after reboot every time.
+
+  https://gitlab.com/LineageOS/issues/android/-/issues/4033
+  https://gitlab.com/LineageOS/issues/android/-/issues/4204
+
+Change-Id: I66631f1f38a3e3a16e6d3dad87c83d0a98e6f851
+Signed-off-by: Joey Huab &lt;joey@evolution-x.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4391a02</div>
+                                        <div class="message">RMX1921: Clear persist.vendor.usb.config on boot
+
+ * QCOM init scripts set every possible debug option if USB modes
+   are not set on boot. This is expensive and causes USB debugging
+   to be enabled on boot every time. OEMs often fix this by
+   themselves, so do us.
+
+ * Note, once this prop is set, the issue can never be easily fixed
+   as it is a persist prop. As we want to satisfy users without
+   wiping data or playing with command line, just do
+   "setprop persist.vendor.usb.config """ unconditionally.
+
+  https://gitlab.com/LineageOS/issues/android/issues/308
+  https://gitlab.com/LineageOS/issues/android/-/issues/4033
+  https://gitlab.com/LineageOS/issues/android/-/issues/4204
+
+Change-Id: I9c7175c085de6c0eb278ce8631b518d27e011065
+Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1246d7c</div>
+                                        <div class="message">RMX1921: Clear persist.vendor.usb.config on boot
+
+ * QCOM init scripts set every possible debug option if USB modes
+   are not set on boot. This is expensive and causes USB debugging
+   to be enabled on boot every time. OEMs often fix this by
+   themselves, so do us.
+
+ * Note, once this prop is set, the issue can never be easily fixed
+   as it is a persist prop. As we want to satisfy users without
+   wiping data or playing with command line, just do
+   "setprop persist.vendor.usb.config """ unconditionally.
+
+  https://gitlab.com/LineageOS/issues/android/issues/308
+  https://gitlab.com/LineageOS/issues/android/-/issues/4033
+  https://gitlab.com/LineageOS/issues/android/-/issues/4204
+
+Change-Id: I9c7175c085de6c0eb278ce8631b518d27e011065</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">12</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ba05389</div>
                                         <div class="message">RMX1921: Add camera aux list
 Removed LOS snap from list because access to aux cause the app to bug
 https://gitlab.com/LineageOS/issues/android/-/issues/4192
 
-Add com.android.camera as a replacement
 https://github.com/Deepak5310/android_device_realme_RMX1921/blob/ceeecba57446b072e6eea326d1493ac4278b6170/system.prop#L25
+dropped in this commit 1ff68d6fe51bfbffca5f3793011ee81f68d3a934.
 
 Change-Id: Iad13fdd99cd1a82d35c4635256e7497d7b302b0d
 Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c9479a7</div>
-                                        <div class="message">RMX1921: Add camera aux list
-Removed LOS snap from list because access to aux cause the app to bug 1ff68d6fe51bfbffca5f3793011ee81f68d3a934.
-https://gitlab.com/LineageOS/issues/android/-/issues/4192
-
-Add com.android.camera as a replacement
-
-Change-Id: Iad13fdd99cd1a82d35c4635256e7497d7b302b0d
-Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8b34306</div>
-                                        <div class="message">RMX1921: Add camera aux list
-Removed LOS snap from list because access to aux cause the app to bug
-https://gitlab.com/LineageOS/issues/android/-/issues/4192
-
-Add com.android.camera as a replacement
-
-Change-Id: Iad13fdd99cd1a82d35c4635256e7497d7b302b0d
-Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">12</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e5371bc</div>
-                                        <div class="message">RMX1921: Enable quick-tap
-
-Signed-off-by: Deepak5310 &lt;37282143+Deepak5310@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Deepak5310/android_device_realme_RMX1921</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">shinka</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#319f963</div>
-                                        <div class="message">Revert "Revert "RMX1971: Enable logcat service""
-
-This reverts commit 372f07ed651ed57f4a2ce7a6cabc3e14a7255092.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1464,7 +1495,7 @@ This reverts commit 372f07ed651ed57f4a2ce7a6cabc3e14a7255092.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2022, 20:44:01 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 21:43:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
