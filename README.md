@@ -1,10 +1,10 @@
 ### Socials
-You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/hacked001"> Telegram </a> messages.
+You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/deepak5310"> Telegram </a> messages.
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23E23237.svg?logo=Gmail&logoColor=white)](mailto:github.p8dby@aleeas.com)
 [![Github](https://img.shields.io/badge/Github-%23239120.svg?logo=Github&logoColor=white)](https://github.com/deepak5310)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.deep.z)
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/hacked001)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/deepak5310)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9418441) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrdkjangid)
 ---
