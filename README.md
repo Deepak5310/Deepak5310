@@ -1,4 +1,4 @@
-![header](https://github.com/Deepak5310/Deepak5310/blob/main/header.png)
+![Snake animation](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-contribution-grid-snake.svg)
 
 ## Glad to see you here!
 <p><samp>
