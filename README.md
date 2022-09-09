@@ -1,6 +1,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-contribution-grid-snake.svg)
 
 ## Glad to see you here!
+
 <p><samp>
   I'm Deepak Jangir. a passionate and keenly interested starter in Software World.<br/><br/>
   I'm currently working at <a href="https://www.samsung.com/in/support/service-center/">Samsung India</a> as a Service Engineer. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/">XDA Developers</a>.
@@ -9,6 +10,7 @@
 </samp></p>
 
 #
+
 [![Gmail](https://img.shields.io/badge/Gmail-%23E23237.svg?logo=Gmail&logoColor=white)](mailto:github.p8dby@aleeas.com)
 [![Github](https://img.shields.io/badge/Github-%23239120.svg?logo=Github&logoColor=white)](https://github.com/Deepak5310)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.deep.z)
