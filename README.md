@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-contribution-grid-snake.svg)
+![header](https://github.com/Deepak5310/Deepak5310/blob/main/header.png)
 
 ## Glad to see you here!
 
@@ -18,3 +18,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9418441)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrdkjangid)
 <img align="right" width="" height="" src="https://komarev.com/ghpvc/?username=Deepak5310">
+
+#
+
+![Snake animation](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-contribution-grid-snake.svg)
