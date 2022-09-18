@@ -11,7 +11,7 @@
 
 #
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23E23237.svg?logo=Gmail&logoColor=white)](mailto:github.p8dby@aleeas.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E23237.svg?logo=Gmail&logoColor=white)](mailto:git.vkf26@slmail.me)
 [![Github](https://img.shields.io/badge/Github-%23239120.svg?logo=Github&logoColor=white)](https://github.com/Deepak5310)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.deep.z)
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Deepak5310)
