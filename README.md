@@ -21,4 +21,4 @@
 
 #
 
-![Snake animation](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-contribution-grid-snake-dark.svg)
