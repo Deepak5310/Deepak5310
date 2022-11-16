@@ -4,7 +4,7 @@
 
 <p><samp>
   I'm Deepak Jangir. a passionate and keenly interested starter in Software World.<br/><br/>
-  I'm currently working at <a href="https://www.samsung.com/in/support/service-center/">Samsung India</a> as a Service Engineer. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/">XDA Developers</a>.
+  I'm currently working at <a href="https://www.samsung.com/in/support/service-center/"><del>Samsung India</del></a> as a Service Engineer. I also maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/">XDA Developers</a>.
   <br/><br/>
   You can contact me on any of the platforms given below. I typically respond fastest to <a href="https://t.me/Deepak5310"> Telegram </a> messages.
 </samp></p>
