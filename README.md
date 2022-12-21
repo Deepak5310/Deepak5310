@@ -1,5 +1,6 @@
-![SnakeAnimation](https://github.com/Deepak5310/Deepak5310/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Deepak5310/Deepak5310/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center">
-  <img width="" height="" src="https://komarev.com/ghpvc/?username=Deepak5310&color=184a1c">
+  <img src="https://komarev.com/ghpvc/?username=Deepak5310">
 </p>
