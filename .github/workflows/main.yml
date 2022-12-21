@@ -1,4 +1,5 @@
 name: generate animation
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -6,11 +7,14 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v3.5.1
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:

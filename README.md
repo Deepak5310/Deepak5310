@@ -1,15 +1,16 @@
 ![Header](https://lookimg.com/images/2022/10/23/QkgSM3.png)
 
 
-## Glad to see you here!
+### _I am pleased to make your acquaintance._
 
 <p>
   <samp>
-    I'm Deepak Jangir. a passionate and keenly interested starter in Software World. I recently worked at
-    <a href="https://www.samsung.com/in/support/service-center/">Samsung India</a>
-    as a Service Engineer. I also maintain few Android Custom ROM at
-    <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/">XDA Developers</a>. <br /><br />
-    You can contact me on any of the platforms listed below. I typically respond fastest to 
+    My name is Deepak Jangir and I am an enthusiastic and deeply interested individual in the realm of software. Recently, I held the position of service engineer at
+    <a href="https://www.samsung.com/in/support/service-center/">Samsung India</a>. Additionally, I am responsible for maintaining several Android custom ROMs on
+    <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/">XDA Developers</a>.
+    <br />
+    <br />
+    If you would like to communicate with me, please do not hesitate to utilize any of the listed platforms. I typically respond with the greatest alacrity to 
     <a href="https://t.me/Deepak5310"> Telegram </a> messages.
   </samp>
 </p>
