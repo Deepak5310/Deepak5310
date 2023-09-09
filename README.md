@@ -11,7 +11,7 @@
     <br />
     <br />
     If you would like to communicate with me, please do not hesitate to utilize any of the listed platforms. I typically respond with the greatest alacrity to 
-    <a href="https://t.me/Deepak5310"> Telegram </a> messages.
+    <a href="https://telegram.me/Deepak5310"> Telegram </a> messages.
   </samp>
 </p>
 
