@@ -20,7 +20,7 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC.svg?logo=protonmail&logoColor=white)](mailto:deedev@protonmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.deep.z)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/5310)
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Deepak5310)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/Deepak5310)
 <img align="right" src="https://komarev.com/ghpvc/?username=Deepak5310">
 
 #
