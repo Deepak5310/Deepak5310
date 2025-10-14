@@ -5,19 +5,22 @@
 
 <samp>
 <b>Name</b>: Deepak Jangir
-<b>Title</b>: Software Enthusiast & Android ROM Maintainer
+<b>Title</b>: Tech Enthusiast, Android ROM Maintainer & Biker
 <b>Location</b>: Earth
 
-<b>Status</b>: Compiling... exploring... and caffeinating...
+<b>Status</b>: Compiling... exploring... caffeinating... and tuning superbikes 🏍️
 </samp>
 
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ cat /etc/bio.txt
 
 <samp>
-> Greetings! I'm Deepak. I find my passion in the bits and bytes of software.
-> My journey led me through a role as a Service Engineer at <b>Samsung India</b>, but
-> my terminal is always open for the Android Open Source Project. I maintain
-> several custom ROMs over at the legendary <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/"><b>XDA Developers</b></a> forums.
+> Hey there! I'm Deepak — a tech enthusiast who loves diving deep into code,
+> systems, and performance. When I'm not lost in the digital world, you’ll find
+> me running my own superbike workshop, blending mechanics with motion.
+>
+> In the past, I worked as a Service Engineer at <b>Samsung India</b>. These days,
+> I occasionally develop and maintain Android custom ROMs for the community
+> over at the legendary <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/"><b>XDA Developers</b></a>.
 </samp>
 
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ ls /skills
@@ -25,7 +28,7 @@
 <samp>
 <b>Languages:</b>    Java, Kotlin, C++, Python, Shell
 <b>Tools:</b>        Android Studio, Git, Linux, ADB, Fastboot
-<b>Interests:</b>    AOSP, Kernel Development, System Performance
+<b>Interests:</b>    AOSP, Kernel Development, System Performance, Superbikes
 </samp>
 
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ ./connect.sh
