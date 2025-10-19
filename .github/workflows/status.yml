@@ -1,0 +1,33 @@
+name: Update Dynamic README Status
+
+on:
+    schedule:
+        - cron: "0 */6 * * *"
+    push:
+        branches: [main]
+    workflow_dispatch:
+
+jobs:
+    update-status:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v5
+
+            - name: Update README
+              run: |
+                  BUILD_STATUS=$(shuf -n1 -e "Passed" "Failed")
+                  BIKE_HOURS=$((RANDOM % 24 + 1))
+                  BIKE_MINS=$((RANDOM % 59 + 1))
+                  BIKE_STATUS="Garaged, ${BIKE_HOURS}h ${BIKE_MINS}m since ignition"
+                  BUILD_EMOJI=$([ "$BUILD_STATUS" = "Passed" ] && echo "✅" || echo "❌")
+                  sed -i "s@<b>Status</b>: .*@<b>Status</b>: $BUILD_EMOJI Build: <b>$BUILD_STATUS</b> | 🏍️ Bike: <b>$BIKE_STATUS</b>@g" README.md
+                  echo "✅ Updated: Build=$BUILD_STATUS, Bike=$BIKE_STATUS"
+
+            - uses: stefanzweifel/git-auto-commit-action@v7
+              with:
+                  commit_message: "Status Update"
+                  branch: main
+                  commit_user_name: github-actions[bot]
+                  commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
