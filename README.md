@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Deepak5310/Deepak5310/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://github.com/Deepak5310/Deepak5310/blob/main/gh-space-shooter.gif" alt="Space Shooter Game" />
 </p>
