@@ -1,42 +1,44 @@
-<!-- The header image might clash with this theme, so it's optional -->
+<!-- Typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9FEF&center=true&width=435&lines=DEEPAK%40GITHUB%3A~%24+whoami" />
+</p>
 
 <pre>
-<b>DEEPAK@GITHUB</b>:<b>~</b>$ whoami
-
 <samp>
-<b>Name</b>: Deepak Jangir
-<b>Title</b>: Tech Enthusiast, Android ROM Maintainer & Biker
-<b>Location</b>: Earth
-
-<b>Status</b>: ✅ Build: <b>Passed</b> | 🏍️ Bike: <b>Garaged, 16h 2m since ignition</b>
+<b>Name</b>:     Deepak Jangir
+<b>Title</b>:    Tech → Android ROMs | Superbikes
+<b>Location</b>: 🌍 Earth
+<b>Status</b>:   ✅ Building · 🏍️ Garaged
 </samp>
+</pre>
 
+<pre>
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ cat /etc/bio.txt
 
 <samp>
-> Hey there! I'm Deepak — a tech enthusiast who loves diving deep into code,
-> systems, and performance. When I'm not lost in the digital world, you’ll find
-> me running my own superbike workshop, blending mechanics with motion.
->
-> In the past, I worked as a Service Engineer at <b>Samsung India</b>. These days,
-> I occasionally develop and maintain Android custom ROMs for the community
-> over at the legendary <a href="https://forum.xda-developers.com/m/Deepak5310.6748013/"><b>XDA Developers</b></a>.
+⚡ Android ROM maintainer @ XDA | ex-Samsung engineer
+🔧 Blending code, systems & superbikes – one commit at a time.
 </samp>
 
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ ls /skills
 
 <samp>
-<b>Languages:</b>    Java, Kotlin, C++, Python, Shell
-<b>Tools:</b>        Android Studio, Git, Linux, ADB, Fastboot
-<b>Interests:</b>    AOSP, Kernel Development, System Performance, Superbikes
+┌──────────────────────┬──────────────────────┐
+│ <b>Languages</b>            │ <b>Tools & Platforms</b>    │
+├──────────────────────┼──────────────────────┤
+│ Java • Kotlin        │ Android Studio       │
+│ C++ • Python         │ Git • Linux          │
+│ Shell                │ ADB • Fastboot       │
+└──────────────────────┴──────────────────────┘
 </samp>
 
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ ./connect.sh
 
 <samp>
-> I'm most active on Telegram. Drop me a message!
-<br>
-<a href="https://telegram.me/Deepak5310">[Telegram]</a> <a href="mailto:deedev@protonmail.com">[ProtonMail]</a> <a href="https://discordapp.com/users/5310">[Discord]</a> <a href="https://instagram.com/mr.deep.z">[Instagram]</a>
+📬 Telegram: <a href="https://telegram.me/Deepak5310">@Deepak5310</a>
+✉️ ProtonMail: <a href="mailto:deedev@protonmail.com">deedev@protonmail.com</a>
+🎮 Discord: <a href="https://discordapp.com/users/5310">5310</a>
+📸 Instagram: <a href="https://instagram.com/mr.deep.z">@mr.deep.z</a>
 </samp>
 
 <b>DEEPAK@GITHUB</b>:<b>~</b>$ █
@@ -45,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Deepak5310/Deepak5310/blob/main/gh-space-shooter.gif" alt="Space Shooter Game" />
+  <img src="gh-space-shooter.gif" alt="Space Shooter Game" />
 </p>
