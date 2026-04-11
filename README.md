@@ -8,7 +8,7 @@
 <b>Name</b>:     Deepak Jangir
 <b>Title</b>:    Tech → Android ROMs | Superbikes
 <b>Location</b>: 🌍 Earth
-<b>Status</b>: ✅ Build: <b>Passed</b> | 🏍️ Bike: <b>Garaged, 5h 46m since ignition</b>
+<b>Status</b>: ❌ Build: <b>Failed</b> | 🏍️ Bike: <b>Garaged, 5h 35m since ignition</b>
 </samp>
 </pre>
 
